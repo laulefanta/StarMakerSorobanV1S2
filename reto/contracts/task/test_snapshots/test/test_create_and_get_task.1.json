@@ -53,7 +53,7 @@
                         "key": {
                           "vec": [
                             {
-                              "symbol": "TASK"
+                              "symbol": "TASKKEY"
                             },
                             {
                               "u32": 1
